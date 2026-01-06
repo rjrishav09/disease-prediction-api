@@ -1,6 +1,6 @@
-fastapi==0.110.0
-uvicorn==0.27.0
-tensorflow==2.15.0
-numpy==1.26.4
-scikit-learn==1.4.0
-pydantic==2.6.0
+fastapi
+uvicorn
+tensorflow
+numpy
+scikit-learn
+pydantic
