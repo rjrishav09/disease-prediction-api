@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+dataset.csv
+*.h5.bak
+.DS_Store
+venv/
